@@ -1,30 +1,4 @@
-# Puppeteer PDF Generator
 
-Este script Node.js utiliza o Puppeteer para gerar arquivos PDF de páginas da web. Ele automatiza o processo de abrir páginas da web, rolar até o final para carregar todos os dados e salvar a página como um arquivo PDF.
-
-## Requisitos
-
-- Node.js
-- Puppeteer
-
-## Como usar
-
-1. Clone o repositório ou copie o conteúdo do script para o seu projeto.
-2. Instale as dependências:
-
-   ```bash
-   npm install puppeteer
-Edite o array urls no script para incluir as URLs que deseja processar.
-
-Defina o tempo de espera, se necessário, ajustando a variável waitTime.
-
-Execute o script: node serve.js
-
-
-Para formatar o código como um README no GitHub, você pode usar formatação de código dentro de blocos de código ou usar sintaxe Markdown para realçar a sintaxe. Aqui está como você pode fazer isso:
-
-markdown
-Copy code
 # Puppeteer PDF Generator
 
 Este script Node.js utiliza o Puppeteer para gerar arquivos PDF de páginas da web. Ele automatiza o processo de abrir páginas da web, rolar até o final para carregar todos os dados e salvar a página como um arquivo PDF.
